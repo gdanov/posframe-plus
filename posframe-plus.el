@@ -1,4 +1,4 @@
-;; posframe-plus.el --- You can set up active map for posframe easily.  -*- lexical-binding: t; -*-
+;;; posframe-plus.el --- You can set up active map for posframe easily.  -*- lexical-binding: t; -*-
 
 ;; Filename: posframe-plus.el
 ;; Description: You can set up active map for posframe easily
